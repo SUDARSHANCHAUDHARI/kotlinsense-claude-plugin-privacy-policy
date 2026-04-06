@@ -29,7 +29,7 @@ This repository hosts the official privacy policy for the **KotlinSense** Claude
 ## Install
 
 ```bash
-/plugin install kotlinsense@SUDARSHANCHAUDHARI-KotlinSense
+/plugin install kotlinsense
 /kotlinsense:install
 ```
 
